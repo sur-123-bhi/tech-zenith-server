@@ -1,0 +1,152 @@
+{
+    "historical": [
+        {
+            "Location": "HUMAYUNS TOMB",
+            "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnvfwAaCj__g83nub08qg0OQ4Px-Y8c64bhw&usqp=CAU",
+            "Price": 55000,
+            "Details": "This tomb, built in 1570, is of particular cultural significance as it was the first garden-tomb on the Indian subcontinent.",
+            "id": 1
+          },
+          {
+            "Location": "BOROBUDUR",
+            "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5CqkTjLyETbVx8VTtDECOIe-nIsfT14O0I4NzcW51KWvOStZudp2ULAlAoZaegGaeWA&usqp=CAU",
+            "Price": 60000,
+            "Details": "At Borobudur, geometry, geomancy, and theology all instruct adherents toward the ultimate goal of enlightenment.",
+            "id": 2
+          },
+          {
+            "Location": "KUTA BALI",
+            "Image": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/11/17/Pictures/_cf8f7c16-090a-11ea-8da7-95ed4a38ab68.jpg",
+            "Price": 40000,
+            "Details": "Kuta is a tourist area, administratively an urban village (kelurahan), and the capital of Kuta District, Badung Regency, southern Bali, Indonesia.",
+            "id": 3
+          },
+          {
+            "Location": "LEANING TOWER OF PISA",
+            "Image": "https://img.traveltriangle.com/blog/wp-content/uploads/2020/01/places-to-visit-in-Bangalore-in-June1.jpg",
+            "Price": 100000,
+            "Details": "The city of Pisa is famous for its tourist attractions, but the Leaning Tower of Pisa is matchless. This is regarded as the most popular monument in Italy and one of the Seven Wonders of the World.",
+            "id": 4
+          }
+    ],
+    "campingPlaces": [
+        {
+            "Image": "https://viatravelers.com/wp-content/uploads/2022/09/Yosemite-Valley-Yosemite-National-Park-768x512.jpg",
+            "Detail": "Yosemite National Park makes it the perfect camping spot in the world. The lush green scenery and towering mountains are a breathtaking sight, and there’s plenty of wildlife to see, too.",
+            "Location": "Yosemite National Park, California",
+            "Price": 200000,
+            "id": 5
+        },
+        {
+            "Image": "https://viatravelers.com/wp-content/uploads/2017/04/boya-lake-provincial-park-768x512.jpeg",
+            "Detail": "Boya Lake Provincial Park is an excellent place for anyone looking to get away from the hustle and bustle of everyday life. The water is crystal clear and wonderfully relaxed, making it the perfect spot for an afternoon of fishing and relaxing on the shore",
+            "Location": "Boya Lake Provincial Park, Canada",
+            "Price": 200000,
+            "id": 6
+        },
+        {
+            "Image": "https://viatravelers.com/wp-content/uploads/2022/09/Yosemite-Valley-Yosemite-National-Park-768x512.jpg",
+            "Detail": "Yosemite National Park makes it the perfect camping spot in the world. The lush green scenery and towering mountains are a breathtaking sight, and there’s plenty of wildlife to see, too.",
+            "Location": "Yosemite National Park, California",
+            "Price": 300000,
+            "id": 7
+        },
+        {
+            "Image": "https://viatravelers.com/wp-content/uploads/2017/04/miyajima-japan-768x513.jpg",
+            "Detail": "Miyajima starts with picking the right spot to set up camp. You can opt for a place on the water’s edge, giving you unobstructed views of the incredible shoreline. Or, you can choose a rental cabin from the shoreline that still offers stunning views.",
+            "Location": "Miyajima, Japan",
+            "Price": 250000,
+            "id": 8
+        }
+    ],
+    "EuropeDestination": [
+        {
+            "Image": "https://imgs.search.brave.com/8BOkCxWVDJsXdHQQcytFblrWT7z7Bkeg6A2N-2F8Euc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hbGx0/aGF0c2ludGVyZXN0/aW5nLmNvbS93b3Jk/cHJlc3Mvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTMvMDkvc2Fu/dG9yaW5pLWdyZWVj/ZS5qcGc",
+            "Detail": "The island of Santorini is the remnants of an ancient volcano. What remains is the rim of the caldera and perched along this rim are some of the most photogenic towns in Europe.",
+            "Location": "SANTORINI, GREECE",
+            "Price": 500000,
+            "id": 9
+        },
+        {
+            "Image": "https://www.travelanddestinations.com/wp-content/uploads/2017/03/Prague-in-the-Autumn.jpg",
+            "Detail": "The capital of the Czech Republic. This destination is fantastic to visit at all times of the year with some of the most picturesque architecture and landmarks. ",
+            "Location": "Prague",
+            "Price": 500000,
+            "id": 10
+        },
+        {
+            "Image": "https://www.travelanddestinations.com/wp-content/uploads/2017/09/Nyhavn-Copenhagen-768x512.jpg",
+            "Detail": "One of the most beautiful northern destinations in Europe is Copenhagen. A highlight of this city is the Nyhavn which is a canal with wonderful colourful architecture, docked boats and a lively atmosphere.",
+            "Location": "Copenhagen",
+            "Price": 400000,
+            "id": 11
+        },
+        {
+            "Image": "https://www.travelanddestinations.com/wp-content/uploads/2016/05/Hungarian-Parliament-in-Budapest-at-Night-768x512.jpg",
+            "Detail": "Another stunning capital in Europe is Budapest. The city makes for a cheap and beautiful destination, with tons of amazing things to see, such as the Hungarian Parliament, the Széchenyi Chain Bridge, Buda Castle and Fisherman’s Bastion. ",
+            "Location": "Budapest",
+            "Price": 300000,
+            "id": 12
+        }
+    ],
+    "DesertPlaces": [
+        {
+            "Image": "https://cdn2.wanderlust.co.uk/media/1037/cropped-peru-shutterstock_544383520.jpg?anchor=center&mode=crop&width=1280&height=0&format=auto&quality=90&rnd=132056042920000000",
+            "Detail": "If there is such a thing as a party oasis, this is it. Set in the sand dunes of Peru's south-west, its shores are dotted with bars and clubs and dune buggies roar across the high, rolling sand dunes surrounding the village.",
+            "Location": "Huacachina Oasis, Peru",
+            "Price": 300000,
+            "id": 13
+        },
+        {
+            "Image": "https://cdn2.wanderlust.co.uk/media/1042/cropped-arizona-shutterstock_167691602.jpg?anchor=center&mode=crop&width=1280&height=0&format=auto&quality=90&rnd=132056047280000000",
+            "Detail": "A huge, inviting plunge pool on Havasu Creek, this Grand Canyon ‘oasis’ is fed by a series of waterfalls that flow out of limestone, giving the water a pleasing blue-green hue.",
+            "Location": "Havasu Falls, Grand Canyon, USA",
+            "Price": 400000,
+            "id": 14
+        },
+        {
+            "Image": "https://cdn2.wanderlust.co.uk/media/1043/cropped-morocco-shutterstock_124416517.jpg?anchor=center&mode=crop&width=1280&height=0&format=auto&quality=90&rnd=132056048670000000",
+            "Detail": "Situated along the banks of Ziz River, Tafilalt is largest Saharan oasis in Morocco. Famous for its fortified villages and luscious dates, it was an important stopping point on the Saharan caravan route from the Niger River to Tangiers. Definitely one for your Instagram feed.",
+            "Location": "Tafilalt, Morocco",
+            "Price": 300000,
+            "id": 15
+        },
+        {
+            "Image": "https://cdn2.wanderlust.co.uk/media/1044/cropped-libya-shutterstock_586540589.jpg?anchor=center&mode=crop&width=1280&height=0&format=auto&quality=90&rnd=132056049690000000",
+            "Detail": "Ubari is an oasis town, centred around one of the 16 dune lakes, created by water trapped amongst sand dunes in the Fezzan region of southern Libya.",
+            "Location": "Ubari Oasis, Libya",
+            "Price": 200000,
+            "id": 16
+        }
+    ],
+    "HikingPlaces": [
+        {
+            "Image": "https://travel.usnews.com/dims4/USNEWS/c4892c1/2147483647/resize/445x280%5E%3E/crop/445x280/quality/85/?url=https%3A%2F%2Ftravel.usnews.com%2Fimages%2FFall-Color-Mammoth-Lakes-Basin-Josh_Wray-Mammoth_Lakes_Tourism_dcbVtu4.jpg",
+            "Detail": "This California town in the Eastern Sierra draws adventure travelers with a long ski season, but its 300-plus miles of trails that curve through granite peaks, forests and alpine lakes are equally invigorating. Crystal Lake Trail, a moderate hike with panoramic views of the Mammoth Lakes Basin, is a must-do.",
+            "Location": "Mammoth Lakes",
+            "Price": 800000,
+            "id": 17
+        },
+        {
+            "Image": "https://travel.usnews.com/dims4/USNEWS/1fa02ff/2147483647/resize/445x280%5E%3E/crop/445x280/quality/85/?url=https%3A%2F%2Ftravel.usnews.com%2Fimages%2Floch_vale_getty_resized_445x280_y7RfF8x.jpg",
+            "Detail": "This national treasure roughly 70 miles northwest of Denver is a Colorado must-see. With a base camp packed with amenities (Estes Park), exciting wildlife opportunities (think: moose, elk and bighorn sheep) and more than 350 miles of trails, Rocky Mountain National Park is a hiker's dream. Advanced trekkers looking to conquer a 14er (a peak higher than 14,000 feet above sea level) can climb the majestic Longs Peak. ",
+            "Location": "Rocky Mountain National Park",
+            "Price": 400000,
+            "id": 18
+        },
+        {
+            "Image": "https://travel.usnews.com/dims4/USNEWS/d5f5ae8/2147483647/resize/976x652%5E%3E/crop/976x652/quality/85/?url=https%3A%2F%2Ftravel.usnews.com%2Fimages%2Fsol_duc_2_getty_SwZ4DE3.jpg",
+            "Detail": "lympic National Park draws avid hikers from around the world to its 600-plus miles of top-notch trails on Washington's Olympic Peninsula. Take your time hiking through the park's old-growth rainforests, across its glacier-capped mountains and along its more than 70-mile-long coast.",
+            "Location": "Olympic National Park",
+            "Price": 300000,
+            "id": 19
+        },
+        {
+            "Image": "https://travel.usnews.com/dims4/USNEWS/620ce75/2147483647/resize/445x280%5E%3E/crop/445x280/quality/85/?url=https%3A%2F%2Ftravel.usnews.com%2Fimages%2Fmain_street_cropped_445x280_Oe3Jg2g.jpg",
+            "Detail": "Located in a box canyon within the Rocky Mountains, this small Colorado town boasts all kinds of hiking routes, from manageable to challenging. The out-and-back Bear Creek Trail and Bridal Veil Falls Trail, which wind hikers past various water features, are popular moderate options.",
+            "Location": "Telluride",
+            "Price": 600000,
+            "id": 20
+        }
+    ]
+}
